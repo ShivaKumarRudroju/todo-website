@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: antiquewhite;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
